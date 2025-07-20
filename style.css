@@ -1,8 +1,8 @@
-/* *{
-    background-color: lightcoral;color: black;
-} */
+*{
+    background-color: cyan;
+}
 
-#para1,#para4{
+/* #para1,#para4{
     background-color: black;color: aqua;
 }
 .para2,.para3{background-color: red;color: black;
@@ -12,9 +12,20 @@
 
 div h1,a{
     color:blue;
-}
+} */
  
 
-h1~p{background-color: lightgrey;color: black;
+/* h1~p{background-color: lightgrey;color: black;
 
-}
+} */
+ h1 {
+    background-color: black;color: #452181 ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+ }
+ p{
+     background-color: black;color: #452181 ;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+ }
